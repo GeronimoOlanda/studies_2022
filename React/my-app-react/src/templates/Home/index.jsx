@@ -1,9 +1,9 @@
-function App() {
+const Home = () => {
   return (
     <div className="App">
       <h1>Ola</h1>
     </div>
   );
-}
+};
 
-export default App;
+export default Home;
